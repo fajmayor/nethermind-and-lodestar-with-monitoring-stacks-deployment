@@ -1,1 +1,1 @@
-# Nethermind Client and Monitoring Stacks Manual Setup on AWS
+# Nethermind Client and Monitoring Stacks Setup using Docker COntainer on AWS
