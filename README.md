@@ -1,1 +1,2 @@
-# Nethermind Client and Monitoring Stacks Setup using Docker COntainer on AWS
+# Nethermind and Lodestar Clients with Monitoring Stacks Deployment on AWS
+This repository documents my ambitious endeavor to deploy Nethermind and Lodestar blockchain clients using Goerli network along with their respective monitoring stacks.
