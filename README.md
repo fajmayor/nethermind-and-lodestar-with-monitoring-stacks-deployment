@@ -274,9 +274,9 @@ ssh -N -v ethereum@192.168.1.69 -L 3000:localhost:3000
 ![Alt text](images/port-forwarding.png)
 * Setup Grafana Dashboards by opening http://localhost:3000
 
-![Alt text](images/node-exporter-grafana.png)
+![Alt text](images/node-exporter-grafana.png)<br/>
 Node-exporter Dashboard
-![Alt text](images/nethermind-client-service-1.png)
+![Alt text](images/nethermind-client-service-1.png)<br/>
 Nethermind Client Dashboard
-![Alt text](images/lodestar-consensus-client-1.png)
+![Alt text](images/lodestar-consensus-client-1.png)<br/>
 Lodestart Dashboard
