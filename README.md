@@ -282,3 +282,9 @@ Nethermind Client Dashboard
 
 ![Alt text](images/lodestar-consensus-client-1.png)<br/>
 Lodestart Dashboard
+
+# References
+* [https://docs.nethermind.io/get-started/installing-nethermind](https://docs.nethermind.io/get-started/installing-nethermind)
+* [https://discoverdot.net/projects/nethermind](https://discoverdot.net/projects/nethermind)
+* [https://chainsafe.github.io/lodestar/getting-started/installation/](https://chainsafe.github.io/lodestar/getting-started/installation/)
+* [https://docs.nethermind.io/monitoring/metrics/setting-up-local-metrics-infrastracture](https://docs.nethermind.io/monitoring/metrics/setting-up-local-metrics-infrastracture)
